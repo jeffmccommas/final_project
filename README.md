@@ -1,4 +1,4 @@
-final_project
-=============
+jmccommas.github.io
+===================
 
-Final Project for Full Sail University
+full sail final project
