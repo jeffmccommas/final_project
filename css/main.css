@@ -7,6 +7,7 @@
 body {
     position: relative;
     background: url("../images/pattern.png") repeat;
+    padding-top: 110px
 }
 /********** Header **********/
 
@@ -70,7 +71,7 @@ header .graduate {
     padding-left: 0;
 }
 .homesection{
-    margin: 93px 0 0 0;
+    margin: 0;
 }
 
 .home .welcome-text {
